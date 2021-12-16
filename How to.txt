@@ -1,0 +1,6 @@
+1. Get ready the pano images
+2. Marzipano.net to set the sequences and add information
+3. export the zip file
+4. copy all the files into github desktop and push on website
+5. in website version of github, under project/settings/Pages, select Branch:main, and /docs, then save.
+6. the website is done.
